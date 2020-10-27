@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## 文档提要
 
-You can use the [editor on GitHub](https://github.com/wangminger/YSopenlayersdoc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+本文档为学习openlayers建立，文档不足之处，请各位斧正。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## openlayer的安装和配置
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
